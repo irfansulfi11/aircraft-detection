@@ -117,13 +117,6 @@ Form-data with a `file` field containing the image.
 }
 ```
 
----
-
-## 📸 UI Preview
-
-![Preview Screenshot](https://placehold.co/800x400?text=AeroVision+Detection+UI)
-
----
 
 ## 🔐 Security Notes
 
